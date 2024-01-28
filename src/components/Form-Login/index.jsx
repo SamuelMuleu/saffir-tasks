@@ -10,7 +10,7 @@ const Form = () => {
   const navigate = useNavigate();
 
   const handleCreatAcount = () => {
-    navigate("/signout");
+    navigate("/saffir-tasks/signout");
   };
   return (
     <Container>

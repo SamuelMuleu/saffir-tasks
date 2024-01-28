@@ -9,7 +9,7 @@ const FormSignout = () => {
   const navigate = useNavigate();
 
   const handleNavigateHome = () => {
-    navigate("/");
+    navigate("/saffir-tasks/signin");
   };
 
   return (
