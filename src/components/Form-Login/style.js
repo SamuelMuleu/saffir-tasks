@@ -7,8 +7,8 @@ position: relative;
 padding-top: 50%;
 .saffirlogo{
     position: absolute;
-left: -20%;
 bottom:75%;
+padding: 0%;
 
     width:120%;
 
