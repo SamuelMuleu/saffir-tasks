@@ -8,7 +8,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<SignIn />} />
+        <Route path="/saffir-tasks" element={<SignIn />} />
         <Route path="/saffir-tasks/signin" element={<SignIn />} />
         <Route path="/saffir-tasks/signout" element={<SignOut />} />
       </Routes>
