@@ -10,7 +10,7 @@ padding-top: 50%;
 
 .saffirlogo{
     position: absolute;
-left: -40%;
+left: -30%;
 bottom:75%;
     width:120%;
 

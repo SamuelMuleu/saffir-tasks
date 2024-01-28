@@ -19,7 +19,7 @@ const Form = () => {
       </div>
       <div className="content">
         <div className="login">
-          <img src="../656952.png" alt="" />
+          <img src="./656952.png" alt="" />
         </div>
 
         <div className="form">
