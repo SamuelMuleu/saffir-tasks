@@ -34,10 +34,6 @@ p{
  letter-spacing: 2px;
 }
 img{
-    width: 80px;
-   padding-left: 70px;
-    background: transparent;
-    padding-top: 20px;
 
 }
 

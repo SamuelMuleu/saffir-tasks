@@ -19,6 +19,15 @@ border-radius: 20%;
 }
 .login{
     margin-bottom: 8px;
+    img{
+
+    
+            width: 80px;
+   padding-left: 70px;
+    background: transparent;
+    padding-top: 20px;
+
+    }
 }
 `;
 const Button = styled.button`
