@@ -27,7 +27,7 @@ border-radius: 20%;
         
 
     
-            width: 80px;
+            width: 150px;
    padding-left: 70px;
     background: transparent;
     padding-top: 20px;
