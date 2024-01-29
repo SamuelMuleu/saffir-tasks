@@ -7,25 +7,25 @@ position: relative;
 padding-top: 50%;
 .saffirlogo{
     position: absolute;
+    left: -25%;
 bottom:75%;
 padding: 0%;
 
     width:120%;
 
 }
-.content{
-border: ${COLORS_THEME.GOLD_YELLOW} 3px solid;
-border-radius: 20%;
-}
+
+
 .login{
     margin-bottom: 8px;
     img{
 
     
             width: 150px;
+         
    padding-left: 70px;
     background: transparent;
-    padding-top: 20px;
+
 
     }
 }

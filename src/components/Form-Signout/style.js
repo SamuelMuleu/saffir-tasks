@@ -10,8 +10,8 @@ padding-top: 50%;
 
 .saffirlogo{
     position: absolute;
-left: -20%;
-bottom:75%;
+left: -25%;
+bottom:80%;
     width:120%;
 
 
@@ -19,9 +19,10 @@ bottom:75%;
 
 .content{
 border: ${COLORS_THEME.GOLD_YELLOW} 3px solid;
-border-radius: 20%;
+border-radius: 25px;
 }
 .login{
+    
     margin-bottom: 8px;
     img{
         
@@ -51,6 +52,7 @@ const ReturnLogin = styled.span`
 position: absolute;
 left: 28%;
 bottom: -10%;
+font-size: 1.2rem;
 color: white;
 
 

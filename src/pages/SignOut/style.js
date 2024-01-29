@@ -17,22 +17,6 @@ form{
     gap: 15px;
 }
 
-h1{
-    color: ${COLORS_THEME.GOLD_YELLOW};
-     font-family: "Alice", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  font-size: 5rem;
-
-
-}
-p{
-   color: ${COLORS_THEME.GOLD_YELLOW};
-     font-family: "Alice", sans-serif;
-  font-weight: 400;
-  font-style: normal;  
- letter-spacing: 2px;
-}
 
 
 
@@ -44,12 +28,6 @@ p{
     
     }
 
-.title{
-position:absolute;
-top:34%;
-right: 28%;
-
-}
 
 
 
@@ -69,17 +47,6 @@ color: white;
     }
 
 
-.content{
-
-    border: 1px solid ${COLORS_THEME.GOLD_YELLOW};
-    border-radius:25px;
-
-}
-.title{
-position: absolute;
-top: 30%;
-right: 26%;
-}
 `;
 
 export default Container;
