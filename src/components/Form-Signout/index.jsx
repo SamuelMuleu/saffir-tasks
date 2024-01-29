@@ -15,11 +15,11 @@ const FormSignout = () => {
   return (
     <Container>
       <div>
-        <img className="saffirlogo" src="./saffirlogo.png" alt="" />{" "}
+        <img className="saffirlogo" src="./saffirlogo.png" alt="" />
       </div>
       <div className="content">
         <div className="login">
-          <img src="./656952.png" alt="" />
+          <img src="./saffiruser.png" alt="" />
         </div>
 
         <div className="form">
